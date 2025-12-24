@@ -1,5 +1,5 @@
-from .serializers import ProductSerializer
-from .models import Product
+from core.serializers import ProductSerializer
+from core.models import Product
 from rest_framework import viewsets
 
 
